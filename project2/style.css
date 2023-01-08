@@ -28,10 +28,10 @@ video{
 
 .startmenu{
     position: absolute;
-    bottom: 54px;
+    bottom: -654px;
     width: 100%;
     text-align: center;
-    transition: all 0.3s;
+    transition: all 0.3s ease-in;
 }
 
 .startmenu img{

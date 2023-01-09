@@ -20,15 +20,16 @@ video{
     bottom: 0;
     display: flex;
     justify-content: center;
-    align-items: center;
+    /* align-items: center; */
     width: 100%;
     background-color: aliceblue;
     /* padding: 4px 0; */
+    z-index: 5;
 }
 
 .startmenu{
     position: absolute;
-    bottom: -654px;
+    bottom: 54px;
     width: 100%;
     text-align: center;
     transition: all 0.3s ease-in;

@@ -26,3 +26,13 @@ nav{
 .logo img{
     width: 45px;
 }
+
+.toolbar-item button{
+    cursor: pointer;
+}
+
+.copy-to-clipboard-button{
+    color: white !important;
+    padding: 5px 12px !important;
+    border: 2px solid white !important;
+}
